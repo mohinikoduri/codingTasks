@@ -1,3 +1,6 @@
+# About Project
+In this project i developed products website. after opening the website user can see the home, products and aboutus page link. User can login through the home page and products will be displayed in products page when ever user want to buy the product need to click on addbuy button. if the user clicks the addbuy button the products will be aded to cart and the total price of products will be updated. In aboutus page user can see more details about website and can get contact us information as well.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
